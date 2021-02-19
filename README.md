@@ -2,5 +2,6 @@
 
 Hello World!
 
-C programs developed using unix ipc
+C programs developed using UNIX IPC
+
 
